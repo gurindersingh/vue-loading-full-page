@@ -3,7 +3,7 @@ Full Page Loader  inspired by https://github.com/nzbin/three-dots
 ### Usage
 
 ```html
-<vue-loader-page :loading="true"></vue-loader-page
+<vue-loading-full-page :loading="true"></vue-loading-full-page
 ```
 
 ```js

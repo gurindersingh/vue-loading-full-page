@@ -6,12 +6,15 @@ Full Page Loader  inspired by https://github.com/nzbin/three-dots
 <vue-loading-full-page :loading="true"></vue-loading-full-page
 ```
 
+Javascript
 ```js
 import VueLoadingFullPage from '@gurinder/vue-loading-full-page';
 Vue.component('vue-loading-full-page', VueLoadingFullPage);
 ```
 
+CSS
 ```css
+
 body.ovf-h {
   overflow-x: hidden;
 }

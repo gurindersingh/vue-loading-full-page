@@ -4,6 +4,15 @@
   "description": "A Vue.js project",
   "author": "Gurinder Chauhan <gurinderchauhan@gmail.com>",
   "private": false,
+  "homepage": "https://github.com/gurindersingh/vue-loading-full-page",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gurindersingh/vue-loading-full-page"
+  },
+  "bugs": {
+    "mail": "gurinderchauhan@gmail.com",
+    "url": "https://github.com/gurindersingh/vue-loading-full-page/issues"
+  },
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",

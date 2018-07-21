@@ -19,7 +19,7 @@
     "lint": "vue-cli-service lint",
     "pack": "vue-cli-service build --target lib --name VueFullPageLoader ./src/components/FullPageLoader.vue"
   },
-  "main": "./dist/VueFullPageLoader.common.js",
+  "main": "src/components/FullPageLoader.vue",
   "files": [
     "dist/*.js",
     "dist/*.js.map",
